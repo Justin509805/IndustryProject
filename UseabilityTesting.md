@@ -5,9 +5,12 @@ My motivation for this test: We want to know if our users understand our app and
 
 **Our User’s goals:**
 Primary
+
 1.	Input a new trigger
 2.	Create a planning
+   
 Secondary
+
 1.	See an overview of their triggers and activities
 
 **User Scenario 1**
