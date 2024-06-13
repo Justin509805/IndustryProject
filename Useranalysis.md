@@ -47,7 +47,9 @@ We have got information via surveys, interviews, user-scenario testing, feedback
 **6.	Create Personas:**
 Personas made by me
 https://github.com/jraemakers/industry-project-krom2/blob/main/Research/Analysis/Lauren.png 
+
 https://github.com/jraemakers/industry-project-krom2/blob/main/Research/Analysis/james.png 
+
 https://github.com/jraemakers/industry-project-krom2/blob/main/Research/Analysis/mike.png 
 
 **7.	Iterate and Validate**
