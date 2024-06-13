@@ -1,4 +1,4 @@
-User Analysis.
+*User Analysis.*
 
 1.	Defining our objectives
 Understanding our users and their needs could result in a much better or improved product. Knowing what the users want can lead to increased user satisfaction. And they are most likely to be more engaged with our product. By identifying pain points and user preferences we can create a better user experience/ux and prevent losing user satisfaction. 
@@ -32,10 +32,10 @@ Psychographic characteristics:
 
 3.	Choosing research methods
 The research methods that we went with are:
-1.	Survey
-2.	Interviews
-3.	User observation
-4.	Target Group
+-	Survey
+-	Interviews
+-	User observation
+-	Target Group
 
 4.	Conducting research
 Within this step, we will administer surveys, conduct interviews, facilitate target groups and observe users in their natural environment. While doing these steps we will make sure that our participants represent our target audience. 
