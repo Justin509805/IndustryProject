@@ -3,7 +3,7 @@ Lately you have been experiencing sensory overload. You have break at your job a
 
 My motivation for this test: We want to know if our users understand our app and which improvement points they have about it.
 
-**Our User’s goals: **
+**Our User’s goals:**
 Primary
 1.	Input a new trigger
 2.	Create a planning
