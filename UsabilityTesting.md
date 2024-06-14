@@ -84,7 +84,7 @@ When comparing all three tests you notice that our users run into some problems.
 
 For our iterations we will be making sure to make a simpler and more clear version and we will test it with user-scenarios as well. 
 
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://ictresearchmethods.nl/img/methods/lab/usability-testing.webp)
+![ Alt Text]([URL](https://ictresearchmethods.nl/img/methods/lab/usability-testing.webp))
 
 
 
